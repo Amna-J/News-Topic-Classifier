@@ -1,4 +1,3 @@
-# News-Topic-Classifier
 # News Topic Classifier — Fine-tuned BERT
 
 A transformer-based text classifier that categorizes news headlines and descriptions into topic categories, using a fine-tuned `bert-base-uncased` model trained on the AG News dataset. Deployed with Gradio for live interaction.
